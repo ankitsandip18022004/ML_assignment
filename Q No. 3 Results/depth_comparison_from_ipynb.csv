@@ -1,0 +1,4 @@
+Depth Setting,Max Depth,Single Tree Bias^2,Single Tree Variance,Single Tree Mean Accuracy,Bagging Bias^2,Bagging Variance,Bagging Mean Accuracy,Variance Reduction,Accuracy Improvement
+Shallow,2,0.9166,0.0385,0.0588,0.9351,0.0115,0.1196,0.027,0.0608
+Selected,None,0.4008,0.6576,0.4708,0.5195,0.0253,0.7804,0.6323,0.3096
+Deep,16,0.6585,0.2416,0.2617,0.685,0.0219,0.61,0.2197,0.3483

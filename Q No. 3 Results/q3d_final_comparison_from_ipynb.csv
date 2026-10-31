@@ -1,0 +1,4 @@
+Model,Clean Test Accuracy,Masked Test Accuracy,Bias Squared,Variance
+Selected Single Tree,0.5625,0.025,0.4014,0.6577
+Final Bagging,0.925,0.75,0.5168,0.0219
+Selected Boosting,0.275,0.2125,0.8902,0.0203
